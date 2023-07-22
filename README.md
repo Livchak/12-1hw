@@ -30,11 +30,12 @@
 7. `**worker-filial_id** 
 <img src = "img/worker-filial_id.png" width = 100%>`
 
-8. `**project_id** 
-<img src = "img/project_id.png" width = 100%>`
+8. 
+**project_id** 
+<img src = "img/project_id.png" width = 100%>
 
-9. `**worker_project** 
-<img src = "img/worker_project.png" width = 100%>`
+9. **worker_project** 
+<img src = "img/worker_project.png" width = 100%>
 
 3nf. `**3nf** 
 <img src = "img/3nf.png" width = 100%>`
