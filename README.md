@@ -36,7 +36,7 @@
 9. **worker_project** 
 <img src = "img/worker_project.png" width = 15%>
 
-3nf 
+10. **3nf** 
 <img src = "img/3nf.png" width = 60%>
 
 
